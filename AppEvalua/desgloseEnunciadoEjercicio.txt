@@ -1,0 +1,25 @@
+
+
+
+
+                                PRACTICA ENUNCIADO (DESGLOSE)
+        1) PROGRAMA EN JS -->  Donde puedan comprobar sus notas constantemente. (v)
+        2) Apartados evaluables por practica(Tratamiento de casos raros ➔ 10%,
+                                            Funcionamiento. ¿Hace lo que se pide? ➔ 70%,
+                                            Calidad, comentarios, nomenclatura ➔ 15%,
+                                            Diseño ➔ 5%). (v)
+        3) Practica --> (Puede tener más de un ejercicio y
+                        cada uno tiene un porcentaje distinto). (v)
+            Ejemplo: en la Practica 0, el primer ejercicio era un 15% y el
+        4) Botón “Evaluar nueva práctica” --> (Pregunte al usuario número de actividades,
+                                                porcentaje cada una de ellas) (v)
+            4.1) Aparecer tabla --> INPUTS (v)
+            4.2) Boton --> EvaluarEjercicio (v)
+            4.3) Boton --> NotaFinalPractica (v)
+                4.3.1) setTimeOut(5000). (v)
+            4.4) Boton --> limpiar (v)
+            4.5) Boton --> RefrescarPagina. (v)
+                                                    AUTOR[MOHAMED YASER HADDAD EDDAHMANE]
+                                                    (v) --> verified.
+                                                    (x) --> Not verified.
+

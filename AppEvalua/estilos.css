@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+body{
+    padding: 10%;
+}
+
+#boton{
+    margin: 20px;
+    height: 50px;
+    font-size: 21px;
+    background-color: #d62828;
+}
+
+#resultado{
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    border:#03045e solid 4px ;
+    background-color: #48cae4;
+}
+#contenedorBtn #boton{
+    width: 200px;
+}
+th,td,tr{
+    border:#03045e solid 4px ;
+    font-size: 23px;
+    background-color: #48cae4;
+}
+
+
+input[type="number"] {
+        width: 200px;
+        font-size: 20px;
+        text-align: center;
+}
+
