@@ -9,3 +9,4 @@ Se trata de una aplicación que sige los criterios de evluación del profesor de
 - [X] **Calidad, comentarios y nomenclatura** -> 15% 
 - [X] **Diseño** -> 5%
 
+### Nivel: básico/medio :green_book:
